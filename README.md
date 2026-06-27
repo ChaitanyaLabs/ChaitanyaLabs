@@ -1,7 +1,7 @@
 Building things, breaking things, figuring out why they broke.<br><br>Currently studying Computer Science (AI), learning Java, Linux, and computer science fundamentals.<br><br>Interested in systems, AI, developer tools, and software that scales.<br><br>Every project here is part of the journey.
 
 
-## 🌐 Socials:
+🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaitanyalabs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanya-ai) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ChaitanyaLabs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ChaitanyaLabs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumar_chaitanya@outlook.com) 
 
 # 💻 Tech Stack:
